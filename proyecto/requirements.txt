@@ -1,8 +1,8 @@
-streamlit
-pandas
-seaborn
-numpy
-matplotlib
-scikit-learn
-tensorflow
-graphviz
+streamlit==1.25.0
+pandas==1.5.3
+seaborn==0.12.2
+numpy==1.23.5
+matplotlib==3.6.3
+scikit-learn==1.2.2
+tensorflow==2.10.0
+graphviz==0.20.1
